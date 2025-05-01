@@ -122,7 +122,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/04/29-05/01、こじま電気のボックスティッシュから公園のお花と図書館のつつじ!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/04/29-05/01、朝の男体山から、図書館の側のゆうすい公園まで!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -161,7 +161,7 @@ p.note { display: none; }
 <h2><span class="yellow">30日のお昼はベルモールを訪問</span></h2>
 <a href="20250501_014.JPG" target="_blank"><img src="20250501_014.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">恐竜展のティラノサウルスは相変わらずの人気者</span></h2>
+<h2><span class="yellow">恐竜展のティラノサウルスは相変わらずの人気者<br>画像のクリックで動画再生します↓</span></h2>
 <a href="20250430_001.MOV" target="_blank"><img src="20250430_001.png" alt="サンプル画像" width="900" /></a>
 
     
