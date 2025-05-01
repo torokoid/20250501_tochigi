@@ -193,6 +193,7 @@ p.note { display: none; }
 <a href="20250501_027.JPG" target="_blank"><img src="20250501_027.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">図書館のそばに公園があることに気づいたので、ちょっと散策</span></h2>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1746085590069!6m8!1m7!1seOQg5f7A5qhYz3994F_lIQ!2m2!1d36.61339344901653!2d139.9354044355116!3f252.15225563081611!4f4.526751388945897!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 <a href="20250501_028.JPG" target="_blank"><img src="20250501_028.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">近くに住んでいたのに初めてきました、中岡本町、ゆうすい公園です</span></h2>
