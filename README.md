@@ -173,7 +173,7 @@ p.note { display: none; }
 <a href="20250501_017.JPG" target="_blank"><img src="20250501_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250501_018.JPG" target="_blank"><img src="20250501_018.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">泳いで出てくる頃には西の空に三日月と木製のコラボ</span></h2>
+<h2><span class="yellow">泳いで出てくる頃には西の空に三日月と木星のコラボ</span></h2>
 <a href="20250501_019.JPG" target="_blank"><img src="20250501_019.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">お月様の左斜め上、明るい星が木星です</span></h2>
